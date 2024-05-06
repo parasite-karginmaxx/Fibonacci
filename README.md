@@ -1,1 +1,1 @@
-# fibonaci_go
+# Fibonacci
